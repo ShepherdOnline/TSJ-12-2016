@@ -30,10 +30,13 @@ custom_sidebar:
   - none
 top_term:
   - "31"
+wide_assets:
+  - ""
 tags: [ ]
 categories:
-  - Athletics
-  - TSJ-12192016
+  - Community
+  - Education
+  - Organizations
 ---
 The Middle of the Mitt High School Figure Skating Team had its first District competition of the season on Saturday in Kalamazoo. The team, which consists of figure skaters from Shepherd, Mt. Pleasant, Gladwin, Big Rapids &amp;amp; Sacred Heart, is broken down into three smaller teams (A, B &amp;amp; C) based on skating level.
 
@@ -41,6 +44,6 @@ Shepherd Freshman, Angelina Myers, skated extremely well and helped the C-Team e
 
 The next competition for the teams will take place on January 21, 2017 at 1:00 pm at the Mt. Pleasant ICE Arena. We hope to see a lot of Bluejays in the stands cheering on the team!
 
-<img class="alignnone size-medium wp-image-21" src="http://www.shepherdhistory.org/tsj122016/wp-content/uploads/sites/15/2016/12/IMG_2687-336x252.jpg" alt="" width="336" height="252" />
+<img class="alignnone size-medium wp-image-419" src="http://www.shepherdhistory.org/shepherdjournal/wp-content/uploads/sites/10/2016/12/IMG_2687-336x252.jpg" alt="" width="336" height="252" />
 
-<img class="alignnone size-medium wp-image-23" src="http://www.shepherdhistory.org/tsj122016/wp-content/uploads/sites/15/2016/12/IMG_2703-336x252.jpg" alt="" width="336" height="252" />
+<img class="alignnone size-medium wp-image-418" src="http://www.shepherdhistory.org/shepherdjournal/wp-content/uploads/sites/10/2016/12/IMG_2703-336x252.jpg" alt="" width="336" height="252" />
